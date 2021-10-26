@@ -21,6 +21,11 @@
     font-family: 'GmarketSansMedium';
 }
 
+.btn-primary {
+    background-color: var(--primary_color) !important;
+    border-color: #000d3d;
+}
+
 .text-primary {
     color: var(--primary_color) !important;
 }
